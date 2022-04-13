@@ -1,3 +1,6 @@
+Simulation of TEM image of dislocations under many
+Beam conditions with Stroh strain field 
+
 Simulation models
 
 I=ΦΦ*    Φ’=PΦ    P=C{exp(2πiγ(n) δz)}C-1    
